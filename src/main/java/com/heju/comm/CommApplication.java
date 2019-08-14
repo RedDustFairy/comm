@@ -1,4 +1,4 @@
-package com.heju.comm.comm;
+package com.heju.comm;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
