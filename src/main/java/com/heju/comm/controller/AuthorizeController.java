@@ -1,7 +1,7 @@
-package com.heju.comm.comm.controller;
+package com.heju.comm.controller;
 
-import com.heju.comm.comm.controller.dto.AccessTokenDTO;
-import com.heju.comm.comm.provider.GithubProvider;
+import com.heju.comm.controller.dto.AccessTokenDTO;
+import com.heju.comm.provider.GithubProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

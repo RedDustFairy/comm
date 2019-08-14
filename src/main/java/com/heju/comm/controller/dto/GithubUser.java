@@ -1,4 +1,4 @@
-package com.heju.comm.comm.controller.dto;
+package com.heju.comm.controller.dto;
 
 public class GithubUser {
     private String name;

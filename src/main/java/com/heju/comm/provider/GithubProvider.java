@@ -1,8 +1,8 @@
-package com.heju.comm.comm.provider;
+package com.heju.comm.provider;
 
 import com.alibaba.fastjson.JSON;
-import com.heju.comm.comm.controller.dto.AccessTokenDTO;
-import com.heju.comm.comm.controller.dto.GithubUser;
+import com.heju.comm.controller.dto.AccessTokenDTO;
+import com.heju.comm.controller.dto.GithubUser;
 import okhttp3.*;
 import org.springframework.stereotype.Component;
 

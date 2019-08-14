@@ -1,4 +1,4 @@
-package com.heju.comm.comm.controller;
+package com.heju.comm.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
